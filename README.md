@@ -1,1 +1,1 @@
-# repository-structure-template
+# Common Service Project
