@@ -17,7 +17,7 @@ Managing the big project code is always like playing on a cold road. We need to 
 
 - **doc Folder:** The documentation folder
 
-- **res Folder:** For all static resources in your project. For example, images.
+- **resources Folder:** For all static resources in your project. For example, images.
 
 - **samples Folder:** Providing “Hello World” & Co code that supports the documentation.
 
